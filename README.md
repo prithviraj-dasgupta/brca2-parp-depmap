@@ -101,4 +101,4 @@ jupyter lab   # then run notebooks/01_explore_data.ipynb
 - DepMap, Broad Institute. DepMap Public 26Q3. https://depmap.org
 - Corsello SM et al. (2020). Discovering the anticancer potential of non-oncology drugs by systematic viability profiling. *Nature Cancer* 1, 235–248.
 
-*Analysis by Prithviraj Dasgupta. Code written with AI assistance; all analysis decisions and interpretation reviewed by the author.*
+*Analysis by Prithviraj Dasgupta. All analysis decisions and interpretation reviewed by the author.*
